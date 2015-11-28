@@ -21,7 +21,9 @@ var Parent = function(args) {
 	console.log('Parent() constructor called')
 	this.a = args.a
 }
-Parent.prototype.methodA = function() { console.log('calling methodA()')}
+Parent.prototype.methodA = function() {
+	console.log('calling methodA()')
+}
 
 /* define the child 'class' */
 var Child = function(args) {
@@ -33,7 +35,9 @@ var Child = function(args) {
 // inherit from the Parent prototype
 Child.prototype = Object.create(Parent.prototype);
 // create method on Child prototype
-Child.prototype.methodB = function() { console.log('calling methodB()')}
+Child.prototype.methodB = function() {
+	console.log('calling methodB()')
+}
 
 /* create child and check */
 var child = new Child({ a: 1, b: 2 });
