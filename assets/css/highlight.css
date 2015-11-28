@@ -7,7 +7,7 @@
   overflow-x: auto;
   /*padding: 0.5em;*/
   background: #272b2d;
-  color: #d0d0d0;
+  color: #DFDFDF;
   -webkit-text-size-adjust: none;
 }
 
@@ -29,7 +29,7 @@
 .method,
 .hljs-list .hljs-title,
 .nginx .hljs-title {
-  color: #ffffb6;
+  color: #FFFC8D;
 }
 
 .hljs-string,
@@ -40,7 +40,7 @@
 .apache .hljs-cbracket,
 .hljs-date,
 .coffeescript .hljs-attribute {
-  color: #c1ef65;
+  color: #EF4789;
 }
 
 .hljs-subst {
@@ -71,7 +71,7 @@
 .vbscript,
 .hljs-literal,
 .hljs-name {
-  color: #77bcd7;
+  color: #519CD3;
 }
 
 .css .hljs-tag {
@@ -92,7 +92,7 @@
 }
 
 .hljs-number {
-  color:#77bcd7;
+  color:#499ED7;
 }
 
 .coffeescript .javascript,

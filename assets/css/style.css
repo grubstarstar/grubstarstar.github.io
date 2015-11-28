@@ -291,10 +291,12 @@ hr {
 	background: #eee;
 }
 
-span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+span.code { font-family:Monaco, Menlo, Courier; background-color:#EEE; font-size:14px; }
 
 pre	{
-	font-family:Menlo, Monaco, Courier;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family:Monaco, Menlo, Courier;
 	white-space:pre-wrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
@@ -303,10 +305,10 @@ pre	{
 	overflow:auto;
 	border-radius: 3px;
 	background: #272b2d;
-	  font-family: 'Source Code Pro',Monaco,monospace;
+	  font-family: 'Source Code Pro', Monaco, Menlo, Courier, monospace;
 	  font-size: 13px;
 	  line-height: 1.5em;
-	  font-weight: 700;
+	  font-weight: 500;
 	color: #d0d4d7;
 
 }
