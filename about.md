@@ -1,11 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: about/
+profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am an experienced and naturally driven software developer. I embraces new technologies and explores the possibilities they present in order to solve problems in creative and succinct ways. I value good communication as an essential trait of a developer and am familiar with working in an Agile Development environment as a certified Scrum Master.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+{% include footer.html %}

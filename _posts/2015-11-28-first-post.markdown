@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first post"
+title:  "JavaScript object Inheritence? Don't mind if I do"
 date:   2015-11-28 10:39:00
 categories: rich
 ---
