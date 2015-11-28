@@ -47,7 +47,7 @@ child.methodA()
 child.methodB()
 {% endhighlight %}
 
-Check out the [My blog][http://blog.richgarner.net] for stuff. 
+Check out the [My blog](http://blog.richgarner.net) for stuff. 
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
