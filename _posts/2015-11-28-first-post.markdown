@@ -26,10 +26,19 @@ ethethethethe... Chris Waddle
 
 ### a deeper heading
 
+> a blockquote
+
 Some words of wisdom.
   1. do sammink
-  2. do sammink else 
+  2. do _sammink_ else 
   3. do anava fing
+
+```
+var Parent = function(args) {
+	console.log('Parent() constructor called')
+	this.a = args.a
+}
+```
 
 Shopping list:
 
