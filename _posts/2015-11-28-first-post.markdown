@@ -27,9 +27,9 @@ ethethethethe... Chris Waddle
 ### a deeper heading
 
 Some words of wisdom.
-1. do sammink
-2. do sammink else 
-3. do anava fing
+  1. do sammink
+  2. do sammink else 
+  3. do anava fing
 
 Shopping list:
 
