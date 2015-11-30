@@ -14,7 +14,24 @@ for(@a) {
 #=> prints the array
 {% endhighlight %}
 
-Is this parent constructor run before the child's?
+Class inheritance in JavaScript
+===============================
+
+Here's some minimal JavaScript to *demonstrate* **using** class inheritance. This is in `monospace`.
+
+Some subheading
+---------------
+
+ethethethethe... Chris Waddle
+
+### a deeper heading
+
+Some words of wisdom.
+1. do sammink
+2. do sammink else 
+3. do anava fing
+4. he done sammink
+
 {% highlight javascript %}
 /* define the parent 'class' */
 var Parent = function(args) {
