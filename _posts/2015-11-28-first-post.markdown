@@ -30,7 +30,6 @@ Some words of wisdom.
 1. do sammink
 2. do sammink else 
 3. do anava fing
-4. he done sammink
 
 Shopping list:
 
