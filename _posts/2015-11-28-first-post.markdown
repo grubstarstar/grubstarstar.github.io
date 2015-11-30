@@ -32,6 +32,18 @@ Some words of wisdom.
 3. do anava fing
 4. he done sammink
 
+Shopping list:
+
+  * apples
+  * oranges
+  * pears
+
+Numbered list:
+
+  1. apples
+  2. oranges
+  3. pears
+
 {% highlight javascript %}
 /* define the parent 'class' */
 var Parent = function(args) {
