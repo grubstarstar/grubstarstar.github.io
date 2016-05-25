@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Sublime Text Plugins - views / regions / selections"
+title:  "Understanding Unicode and UTF-8 encoding"
 date:   2016-04-26 10:14:00
 categories: rich
 ---
-This is about how views regions and seletions all fit together when creating sublime text plugins
+Refer to that computerphile youtube video about this
 
 {% highlight perl %}
 my @a = (1,2,3);
