@@ -4,7 +4,7 @@ meta_description: "This is an amalgamation of my thoughts and experiments with s
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
