@@ -1,0 +1,1899 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"NS",
+				"NSAutoreleasePool"
+			],
+			[
+				"Leag",
+				"LeagueTable"
+			],
+			[
+				"leagU",
+				"LeagueTable"
+			],
+			[
+				"Navg",
+				"NavigableScene"
+			],
+			[
+				"Prop",
+				"PropTypes"
+			],
+			[
+				"onC",
+				"onClickBack"
+			],
+			[
+				"head",
+				"headerSize"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"isFe",
+				"isFetchingOverlay"
+			],
+			[
+				"compo",
+				"componentDidMount\tLife Cycle Method"
+			],
+			[
+				"fixt",
+				"fixture"
+			],
+			[
+				"comp",
+				"componentDidMount\tLife Cycle Method"
+			],
+			[
+				"fixture",
+				"fixtureData"
+			],
+			[
+				"fi",
+				"fixture"
+			],
+			[
+				"combin",
+				"combinedReducer"
+			],
+			[
+				"pop",
+				"populateTable"
+			],
+			[
+				"Fixtures",
+				"FixturesContainer"
+			],
+			[
+				"reduc",
+				"reducer"
+			],
+			[
+				"is",
+				"isVisible"
+			],
+			[
+				"POP",
+				"POPULATE_LEAGUE_TABLE"
+			],
+			[
+				"Ad",
+				"AddFixtureModal"
+			],
+			[
+				"La",
+				"LeagueTable"
+			],
+			[
+				"point",
+				"pointsStr"
+			],
+			[
+				"other",
+				"otherTeamName"
+			],
+			[
+				"team",
+				"teamId"
+			],
+			[
+				"goals",
+				"goalsAgainst"
+			],
+			[
+				"teamS",
+				"teamStats"
+			],
+			[
+				"edit",
+				"editResultDialog"
+			],
+			[
+				"match",
+				"matchId"
+			],
+			[
+				"requ",
+				"requiredFields"
+			],
+			[
+				"glyphicon",
+				"glyphicon-plus-sign"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"col",
+				"colspan\tAttr"
+			],
+			[
+				"teams",
+				"teamsFound"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"teamStat",
+				"teamStatsAtGameBeforeLast"
+			],
+			[
+				"tea",
+				"teamB"
+			],
+			[
+				"matches",
+				"matchesByTeam"
+			],
+			[
+				"to",
+				"toHexString"
+			],
+			[
+				"ma",
+				"match"
+			],
+			[
+				"mat",
+				"matchesByTeam"
+			],
+			[
+				"gameb",
+				"gameBeforeLastPoints"
+			],
+			[
+				"lastGame",
+				"lastGamePoints"
+			],
+			[
+				"te",
+				"teamB_Goals"
+			],
+			[
+				"last",
+				"lastGame"
+			],
+			[
+				"teamA",
+				"teamA_Goals"
+			],
+			[
+				"goal",
+				"goalsFor"
+			],
+			[
+				"teaa",
+				"teamStats"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tabl",
+				"table-layout"
+			],
+			[
+				"Even",
+				"EventCalendarView"
+			],
+			[
+				"add",
+				"addBand"
+			],
+			[
+				"ren",
+				"renderMiniBand"
+			],
+			[
+				"event",
+				"eventModel"
+			],
+			[
+				"even",
+				"eventModel"
+			],
+			[
+				"l",
+				"l0Color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"band",
+				"bandList"
+			],
+			[
+				"person",
+				"personWorksFor"
+			],
+			[
+				"per",
+				"personWorksFor"
+			],
+			[
+				"pers",
+				"Person"
+			],
+			[
+				"first",
+				"firstEventFromPromoter"
+			],
+			[
+				"firstE",
+				"firstEventFromBand"
+			],
+			[
+				"fir",
+				"firstPromoterFromBand"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"rela",
+				"relatedEvent"
+			],
+			[
+				"bands",
+				"bandsView"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"valid",
+				"validFieldKeys"
+			],
+			[
+				"inva",
+				"invalidKeys"
+			],
+			[
+				"BackBo",
+				"Backbone"
+			],
+			[
+				"de",
+				"destroy"
+			],
+			[
+				"in",
+				"includeInJSON"
+			],
+			[
+				"firs",
+				"firstSong"
+			],
+			[
+				"son",
+				"SongCollection"
+			],
+			[
+				"gLees",
+				"gLeesView"
+			],
+			[
+				"gLee",
+				"gLeesView"
+			],
+			[
+				"song",
+				"songArg"
+			],
+			[
+				"B",
+				"BandCollection"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"rende",
+				"rendered"
+			],
+			[
+				"Song",
+				"songView"
+			],
+			[
+				"Band",
+				"BandModel"
+			],
+			[
+				"pro",
+				"projectLink"
+			],
+			[
+				"c",
+				"border-color"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"bl",
+				"black-bean"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"m",
+				"malachite"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"data",
+				"dataToWrite"
+			],
+			[
+				"GGMa",
+				"GGMagicTableRow"
+			],
+			[
+				"GGMai",
+				"GGMagicTableCell"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"newR",
+				"newRowKey"
+			],
+			[
+				"ini",
+				"initialiseAsEditable"
+			],
+			[
+				"pend",
+				"pendingUpdate"
+			],
+			[
+				"upda",
+				"updateRowState"
+			],
+			[
+				"GG",
+				"GGMagicTableCell"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"read",
+				"readable"
+			],
+			[
+				"get",
+				"getReadableStreamSomehow"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"s",
+				"ideograph-space"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"lin",
+				"linkedin_client"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2414,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.md",
+			"settings":
+			{
+				"buffer_size": 721,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/profile.html",
+			"settings":
+			{
+				"buffer_size": 527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"lintto",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"object",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"JSX",
+				"Set Syntax: JSX"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"jx",
+				"Set Syntax: JSX"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"wrap",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"picker",
+				"Color Picker"
+			],
+			[
+				"pciker",
+				"Color Picker"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wr",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"icker",
+				"Color Picker"
+			],
+			[
+				"pick",
+				"Color Picker"
+			],
+			[
+				"colop",
+				"Color Picker"
+			],
+			[
+				"colopick",
+				"Color Picker"
+			],
+			[
+				"colopic",
+				"Color Picker"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"colorpick",
+				"Color Picker"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ynjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"linter set",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"synscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"synt",
+				"Set Syntax: SCSS"
+			],
+			[
+				"colpi",
+				"Color Picker"
+			],
+			[
+				"colorp",
+				"Color Picker"
+			],
+			[
+				"LOWR",
+				"Convert Case: Lower Case"
+			],
+			[
+				"align",
+				"Package Control: Install Package"
+			],
+			[
+				"edipr",
+				"Project: Edit Project"
+			],
+			[
+				"editpro",
+				"Project: Edit Project"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"edit p",
+				"Project: Edit Project"
+			],
+			[
+				"JAVA",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upp",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"wrarp",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"BABE",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"BABEL",
+				"Babel Transform"
+			],
+			[
+				"instalk",
+				"Package Control: Install Package"
+			],
+			[
+				"synjavsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"coloselect",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colsee",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"select",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"warp w",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"emm",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"next",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"selec",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"sava",
+				"File: Save All"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"synperl",
+				"Set Syntax: Perl"
+			],
+			[
+				"cloj",
+				"Set Syntax: Clojure"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"syn perl",
+				"Set Syntax: Perl"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/richg/git/grubstarstar.github.io",
+		"/Users/richg/git/grubstarstar.github.io/_includes",
+		"/Users/richg/git/grubstarstar.github.io/_layouts"
+	],
+	"file_history":
+	[
+		"/Users/richg/git/grubstarstar.github.io/index.html",
+		"/Users/richg/git/mybusiness/public_html/index.html",
+		"/Users/richg/git/mybusiness/public_html/js/project-thumbnail-overlay.js",
+		"/Users/richg/git/mybusiness/js/project-thumbnail-overlay.js",
+		"/Users/richg/git/mybusiness/scss/_contact-form.scss",
+		"/Users/richg/git/mybusiness/index.html",
+		"/Users/richg/git/mybusiness/Questions for financial meeting.txt",
+		"/Users/richg/git/mybusiness/scss/app.scss",
+		"/Users/richg/git/mybusiness/scss/_page-sections.scss",
+		"/Users/richg/git/mybusiness/scss/_project-link.scss",
+		"/Users/richg/Desktop/financial lecture - tax.txt",
+		"/Users/richg/Desktop/financial lecture - tax.tct",
+		"/Users/richg/git/mybusiness/scss/_footer.scss",
+		"/Users/richg/git/mybusiness/js/contact-form.js",
+		"/Users/richg/git/mybusiness/public_html/css/app.css",
+		"/Users/richg/git/mybusiness/public_html/js/navbar-scroller.js",
+		"/Users/richg/git/mybusiness/js/navbar-scroller.js",
+		"/Users/richg/git/mybusiness/scss/_bootstrap-custom.scss",
+		"/Users/richg/Desktop/tmp.txt",
+		"/Users/richg/Dropbox/My Business/notes.txt",
+		"/Users/richg/git/mybusiness/gulpfile.js",
+		"/Users/richg/git/mybusiness/.gitignore",
+		"/Users/richg/git/mybusiness/public_html/contactme.php",
+		"/Users/richg/git/mybusiness/public_html/rmailer/RMailer.php",
+		"/Users/richg/git/mybusiness/contactme.php",
+		"/Users/richg/git/mybusiness/rmailer/RMailer.php",
+		"/Users/richg/git/rmailer/RMailer.php",
+		"/Users/richg/git/mybusiness/Ajax-Contact-Form/vendor/Helpers/Config.class.php",
+		"/Users/richg/git/mybusiness/Ajax-Contact-Form/vendor/SimpleMail/SimpleMail.class.php",
+		"/Users/richg/git/mybusiness/Ajax-Contact-Form/config/config.php",
+		"/Users/richg/git/mybusiness/Ajax-Contact-Form/process.php",
+		"/Users/richg/Desktop/objectiveCtesting/main.m",
+		"/Users/richg/Desktop/objectiveCtesting/main.c",
+		"/Users/richg/Desktop/Rate My Agent.txt",
+		"/Users/richg/Dropbox/My Business/Things to learn between jobs.txt",
+		"/Users/richg/Dropbox/My Business/Notes.txt",
+		"/Users/richg/Dropbox/My Business/Futsal.txt",
+		"/Users/richg/git/futsal/index.js",
+		"/Users/richg/learning-shit/temp/ios/temp/Images.xcassets/LaunchImage.launchimage/Contents.json",
+		"/Users/richg/git/futsalNative/components/scenes/LeagueTable.js",
+		"/Users/richg/git/futsalNative/components/App.js",
+		"/Users/richg/git/futsalNative/index.ios.js",
+		"/Users/richg/git/futsalNative/reducers/index.js",
+		"/Users/richg/git/futsalNative/components/scenes/NavigableScene.js",
+		"/Users/richg/git/futsalNative/package.json",
+		"/Users/richg/git/futsalNative/components/scenes/Splash.js",
+		"/Users/richg/git/futsalNative/components/scenes/MainMenu.js",
+		"/Users/richg/git/futsalNative/actions/Navigation.js",
+		"/Users/richg/git/futsalNative/reducers/Navigation.js",
+		"/Users/richg/git/futsalNative/components/scenes/Fixtures.js",
+		"/Users/richg/git/futsalNative/components/scenes/StartLeague.js",
+		"/Users/richg/git/futsalNative/components/scenes/Testing.js",
+		"/Users/richg/git/futsalNative/ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.d",
+		"/Users/richg/git/futsalNative/node_modules/react/lib/ReactReconciler.js",
+		"/Users/richg/git/futsalNative/components/MainMenu.js",
+		"/Users/richg/git/futsalNative/index.android.js",
+		"/Users/richg/git/futsalNative/components/Splash.js",
+		"/Users/richg/git/futsalNative/node_modules/react/lib/ReactNativeAttributePayload.js",
+		"/Users/richg/git/futsalNative/components/splash.js",
+		"/Users/richg/git/futsalNative/node_modules/react-native/Libraries/StyleSheet/StyleSheetValidation.js",
+		"/Users/richg/git/futsalNative/node_modules/react/lib/onlyChild.js",
+		"/Users/richg/git/futsalNative/node_modules/react/lib/ReactCompositeComponent.js",
+		"/Users/richg/git/futsalNative/index.js",
+		"/Users/richg/git/f8app/.eslintrc",
+		"/Users/richg/git/f8app/test.js",
+		"/Users/richg/git/f8app/js/actions/types.js",
+		"/Users/richg/git/futsal/public/css/main.css",
+		"/Users/richg/git/futsal/src/containers/DeleteResultDialogContainer.js",
+		"/Users/richg/git/futsal/src/components/AddFixtureDialog.jsx",
+		"/Users/richg/git/futsal/src/containers/AddFixtureDialogContainer.js",
+		"/Users/richg/git/futsal/src/components/Fixtures.jsx",
+		"/Users/richg/git/futsal/src/containers/FixturesContainer.js",
+		"/Users/richg/git/futsal/src/components/App.jsx",
+		"/Users/richg/git/futsal/src/actions/AddFixtureDialog.js",
+		"/Users/richg/git/futsal/src/components/DeleteResultDialog.jsx",
+		"/Users/richg/git/futsal/src/components/EditResultDialog.jsx",
+		"/Users/richg/git/futsal/src/reducers/Fixtures.js",
+		"/Users/richg/git/futsal/src/containers/EditResultDialogContainer.js",
+		"/Users/richg/git/futsal/src/actions/DeleteResultDialog.js",
+		"/Users/richg/git/futsal/src/actions/LeagueTable.js",
+		"/Users/richg/git/futsal/src/components/LeagueTable.jsx",
+		"/Users/richg/git/futsal/src/containers/LeagueTableContainer.js",
+		"/Users/richg/git/futsal/src/actions/EditResultDialog.js",
+		"/Users/richg/git/futsal/README.md",
+		"/Users/richg/git/futsal/src/actions/Fixtures.js",
+		"/Users/richg/git/futsal/src/index.js",
+		"/Users/richg/git/futsal/src/reducers/index.js",
+		"/Users/richg/git/futsal/public/index.html",
+		"/Users/richg/git/futsal/src/reducers/AddFixtureDialog.js",
+		"/Users/richg/git/futsal/src/reducers/Dialogs.js",
+		"/Users/richg/git/futsal/src/actions/Dialogs.js",
+		"/Users/richg/git/futsal/src/reducers/LeagueTable.js",
+		"/Users/richg/git/futsal/src/actions/index.js",
+		"/Users/richg/git/futsal/src/app.js",
+		"/Users/richg/git/futsal/Gruntfile.js",
+		"/Users/richg/git/futsal/public/bundle.min.js",
+		"/Users/richg/git/futsal/src/react/App.jsx",
+		"/Users/richg/git/futsal/public/bundle.js",
+		"/Users/richg/git/futsal/src/react/DeleteResultDialog.jsx",
+		"/Users/richg/git/futsal/src/react/EditResultDialog.jsx",
+		"/Users/richg/git/futsal/src/react/AddFixtureDialog.jsx",
+		"/Users/richg/git/futsal/src/redux/actions/index.js",
+		"/Users/richg/git/futsal/src/react/league-table.jsx",
+		"/Users/richg/git/futsal/src/react/add-fixture-modal.jsx",
+		"/Users/richg/git/futsal/src/react/fixtures.jsx",
+		"/Users/richg/git/futsal/src/react/EditResultDialog.jsx.offline",
+		"/Users/richg/git/redux/examples/counter-vanilla/index.html",
+		"/Users/richg/git/futsal/src/react/add-fixture-modal.jsx.offline",
+		"/Users/richg/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/richg/git/futsal/futsal.sublime-project",
+		"/Users/richg/git/futsal/public/scripts/app.js",
+		"/Users/richg/git/futsal/public/scripts/react/league-table.jsx",
+		"/Users/richg/git/futsal/public/scripts/react/fixtures.jsx",
+		"/Users/richg/Desktop/Notes",
+		"/Users/richg/learning-shit/rich-garner/node_modules/gulp-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/region-usage-json/CV.json",
+		"/Users/richg/git/futsal/public/scripts/react/untitled.json",
+		"/Users/richg/Desktop/edward_linkedin",
+		"/Users/richg/git/futsal/scripts/react/results-table.jsx",
+		"/Users/richg/git/futsal/index.html",
+		"/Users/richg/git/musicians-website-backbonejs/assets/styles/my-foundation/_settings.scss",
+		"/Users/richg/git/musicians-website-backbonejs/assets/scripts/views/event/full.js",
+		"/Users/richg/git/musicians-website-backbonejs/assets/scripts/views/band/mini.js",
+		"/Users/richg/git/musicians-website-backbonejs/assets/styles/importer.scss",
+		"/Users/richg/git/musicians-website-backbonejs/assets/styles/_panels.scss",
+		"/Users/richg/git/musicians-website-backbonejs/assets/styles/_layout.scss",
+		"/Users/richg/git/musicians-website-backbonejs/assets/scripts/routers/router.js",
+		"/Users/richg/git/musicians-website-backbonejs/assets/scripts/app.js",
+		"/Users/richg/git/musicians-website-backbonejs/assets/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/richg/git/mybusiness",
+			"/Users/richg/git/f8app",
+			"/Users/richg/git/futsal/src/components",
+			"/Users/richg/git/futsal/src/containers",
+			"~/git/futsal/",
+			"~/git/futsal/src",
+			"./src",
+			"/src",
+			"",
+			"src",
+			"",
+			"./components",
+			"/Users/richg/git/futsal",
+			"/Users/richg/git/musicians-website-backbonejs/assets/scripts",
+			"/Users/richg/git/musicians-website-backbonejs/",
+			"/Users/richg/git/musicians-website-backbonejs/tasks/config",
+			"",
+			"~/node_modules",
+			"-/node_modules",
+			"-node_modules",
+			"/Users/richg/git/mybusiness/node_modules",
+			"/Users/richg/git/mybusiness/node_modules/gluejs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<a ",
+			"<link rel=\"canonical\" href=\"http://richgarner.net/\">",
+			"stylesheet",
+			" class=\"project-link\" project-name=",
+			"\">",
+			"<a hre",
+			"<a ",
+			"section class=\"containe",
+			"<section>",
+			"row",
+			"#contact-form-error",
+			"#contact-form-success",
+			"width: 100%;",
+			"contact-form-",
+			"display: none;",
+			", height: successElementHeight",
+			"height: 10",
+			"height: 1 ",
+			"0.01",
+			"eight: 0",
+			"Elelemtn",
+			"splay: none;",
+			"1em",
+			"play: no",
+			"800px",
+			"display",
+			"400px",
+			"1em",
+			"'slow'",
+			"font",
+			"contactForm",
+			"$jet",
+			"ay: n",
+			"display: ",
+			"0.5em",
+			"white",
+			"10",
+			"2px",
+			"<p>",
+			"form",
+			"red",
+			"console",
+			"hide",
+			"1000",
+			"item",
+			"json",
+			"success",
+			"copyRMailer",
+			"name=\"fo",
+			"0.7",
+			"0.5",
+			"port",
+			"echo",
+			"<",
+			"&&",
+			"isset",
+			"if($",
+			"message",
+			" = ",
+			"checkInfo",
+			"set",
+			" =",
+			"setText",
+			"subject",
+			"setTo",
+			": Yii::app()->params",
+			"Yii",
+			"copyAjaxContactForm",
+			"message",
+			"tls",
+			"--",
+			" ",
+			", ",
+			"RMailer",
+			"payments",
+			"n\", ",
+			"ref of argv[i]",
+			"address",
+			"printf",
+			"[i+1]",
+			"[i+1",
+			"3",
+			"thing",
+			"count",
+			"store",
+			"TouchableHighlight",
+			"ScrollableView",
+			"SCrollableView",
+			"Played",
+			"Fixtures",
+			"{{ flex: 1, borderColor: 'black', borderStyle: 'solid', borderWidth: 5 }}",
+			"eagueTable",
+			", ",
+			"border",
+			"splash",
+			"LeagueTable",
+			"'league-table'",
+			"MainMenu",
+			"Object.assign({}, state)",
+			"action",
+			"MainMenu",
+			"main",
+			"export",
+			"NAVIGATE_TO",
+			"navigateTo",
+			"navigateForwards",
+			"getState",
+			"TouchableOpacity",
+			"onClick",
+			"('...",
+			"label",
+			"TouchableOpacity",
+			"Text",
+			"View",
+			"navForwards",
+			"navBackwards",
+			"navForward",
+			"navBack",
+			"Back",
+			"navBack",
+			"direction",
+			"navigate",
+			"nextRouteId",
+			"sceneId",
+			"currentScene",
+			"navToMainMenu",
+			"props",
+			"components"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"500",
+			"1000",
+			"./components",
+			"scripts",
+			"./plugin-factory",
+			"SendData",
+			"./plugin-client').cre",
+			"require('./plugins/plugin-client').create",
+			"clientPath"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								826,
+								738
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indexh",
+				"index.html"
+			],
+			[
+				"contacscss",
+				"scss/_contact-form.scss"
+			],
+			[
+				"projel",
+				"scss/_project-link.scss"
+			],
+			[
+				"gulpfil",
+				"gulpfile.js"
+			],
+			[
+				"pubappcs",
+				"public_html/css/app.css"
+			],
+			[
+				"contjs",
+				"js/contact-form.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"app.",
+				"components/App.js"
+			],
+			[
+				"appstat",
+				"ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/Objects-normal/x86_64/RCTAppState.d"
+			],
+			[
+				"mainme",
+				"components/scenes/MainMenu.js"
+			],
+			[
+				"jsstoconf",
+				"js/store/configureStore.js"
+			],
+			[
+				"index",
+				"src/index.js"
+			],
+			[
+				"indejs",
+				"index.js"
+			],
+			[
+				"maincss",
+				"public/css/main.css"
+			],
+			[
+				"indexjs",
+				"index.js"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"panel.scs",
+				"assets/styles/_panels.scss"
+			],
+			[
+				"veeve",
+				"assets/scripts/views/event/eventCalendar.js"
+			],
+			[
+				"setting",
+				"assets/styles/my-foundation/_settings.scss"
+			],
+			[
+				"importe",
+				"assets/styles/importer.scss"
+			],
+			[
+				"fullcss",
+				"bower_components/fullcalendar/dist/fullcalendar.css"
+			],
+			[
+				"veevent",
+				"assets/scripts/views/event/eventCalendar.js"
+			],
+			[
+				"fullcalend",
+				"bower_components/fullcalendar/dist/fullcalendar.js"
+			],
+			[
+				"reqconf",
+				"assets/scripts/require-config.js"
+			],
+			[
+				"router",
+				"assets/scripts/routers/router.js"
+			],
+			[
+				"mini",
+				"assets/scripts/views/band/mini.js"
+			],
+			[
+				"modelslo",
+				"assets/scripts/models/slot.js"
+			],
+			[
+				"modeleve",
+				"assets/scripts/models/event.js"
+			],
+			[
+				"colleceve",
+				"assets/scripts/collections/events.js"
+			],
+			[
+				"full.js",
+				"assets/scripts/views/event/full.js"
+			],
+			[
+				"routers",
+				"assets/scripts/routers/router.js"
+			],
+			[
+				"requirejs",
+				"assets/scripts/require-config.js"
+			],
+			[
+				"app",
+				"assets/scripts/app.js"
+			],
+			[
+				"app.js",
+				"app.js"
+			],
+			[
+				"bowerjson",
+				"bower.json"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"setting.scss",
+				"assets/styles/foundation-sites/scss/_settings.scss"
+			],
+			[
+				"bwer",
+				"tasks/config/bower.js"
+			],
+			[
+				"mainss",
+				"assets/styles/main.scss"
+			],
+			[
+				"jquery.",
+				"assets/js/dependencies/jquery.js"
+			],
+			[
+				"backbone.",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"foundation.js",
+				"assets/js/dependencies/foundation.js"
+			],
+			[
+				"indexht",
+				"assets/index.html"
+			],
+			[
+				"bacbone",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"undesc",
+				"assets/js/dependencies/underscore.js"
+			],
+			[
+				"undesrcore",
+				"assets/js/dependencies/underscore.js"
+			],
+			[
+				"backbone",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"indehx",
+				"assets/index.html"
+			],
+			[
+				"stylepane",
+				"assets/styles/panels.scss"
+			],
+			[
+				"backbon",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"apimodeven",
+				"api/models/Venue.js"
+			],
+			[
+				"apimodelband",
+				"api/models/Band.js"
+			],
+			[
+				"modelevent.s",
+				"assets/js/models/event.js"
+			],
+			[
+				"fullca",
+				"assets/js/dependencies/fullcalendar.js"
+			],
+			[
+				"fullcacs",
+				"assets/styles/fullcalendar.css"
+			],
+			[
+				"reconf",
+				"assets/js/require-config.js"
+			],
+			[
+				"backb",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"apimodeleve",
+				"api/models/Event.js"
+			],
+			[
+				"apimodeeven",
+				"api/models/Event.js"
+			],
+			[
+				"evencale",
+				"assets/client/js/views/eventCalendar.js"
+			],
+			[
+				"jquer",
+				"assets/js/dependencies/jquery.js"
+			],
+			[
+				"song.js",
+				"api/models/Song.js"
+			],
+			[
+				"relation",
+				"assets/js/dependencies/backbone-relational.js"
+			],
+			[
+				"backrea",
+				"assets/js/dependencies/backbone-relational.js"
+			],
+			[
+				"indehtm",
+				"assets/index.html"
+			],
+			[
+				"backrelat",
+				"assets/js/dependencies/backbone-relational.js"
+			],
+			[
+				"bacrel",
+				"assets/js/dependencies/backbone-relational.js"
+			],
+			[
+				"backrelation",
+				"assets/js/dependencies/backbone-relational.js"
+			],
+			[
+				"backbone.sj",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"viewband",
+				"assets/client/js/views/band.js"
+			],
+			[
+				"backnjs",
+				"assets/js/dependencies/backbone.js"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"cliemodelsong",
+				"client/js/models/song.js"
+			],
+			[
+				"read",
+				"README"
+			],
+			[
+				"gluejs",
+				"node_modules/gluejs/bin/gluejs"
+			],
+			[
+				"pale",
+				"scss/_palette-warm-clean.scss"
+			],
+			[
+				"palett",
+				"scss/_palette-main.scss"
+			],
+			[
+				"inhert",
+				"node_modules/inherits/inherits.js"
+			],
+			[
+				"inherit",
+				"node_modules/inherits/inherits.js"
+			],
+			[
+				"util.",
+				"node_modules/util/util.js"
+			],
+			[
+				"jusnav",
+				"examples/justified-nav/index.html"
+			],
+			[
+				"logsumm",
+				"WG-102/lib/Our/WebGuard/Logging/SearchSet/LogSummary.pm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/git/mybusiness/mybusiness.sublime-project"
+			],
+			[
+				"furs",
+				"~/git/futsal/futsal.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

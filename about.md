@@ -4,11 +4,14 @@ permalink: about/
 profile: true
 ---
 
-I am an experienced and naturally driven software developer. I embrace new technologies and explores the possibilities they present in order to solve problems in creative and succinct ways. I value good communication as an essential trait of a developer and am familiar with working in an Agile Development environment as a certified Scrum Master.
+I am an experienced and naturally driven software developer. I'm always interested in new technologies and embrace investigate new paradigms of programming when I come across them. I've done commercial work in lower level languages like C++ and also higher level stuff using JavaScript, Perl, Python and various libraries and frameworks, such as React and React Native, Yii, Perl's Mason and everything in between.
 
-Here's my music [grubmusic.co.uk](http://www.grubmusic.co.uk/)
+Here's my homepage [richgarner.net](http://richgarner.net)
 
-Here's my band [alonewithtiger.com](http://www.alonewithtiger.com/)
+Here's my [Linkedin profile](https://www.linkedin.com/in/richard-garner-8428b910)
 
+Here's my [Github profile](https://github.com/grubstarstar)
+
+Thanks for visiting!
 
 {% include footer.html %}
