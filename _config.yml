@@ -5,7 +5,7 @@ meta_description: "This is an amalgamation of my thoughts and experiments with s
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
